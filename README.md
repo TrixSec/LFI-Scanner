@@ -19,10 +19,10 @@ This tool is designed to scan for Local File Inclusion (LFI) vulnerabilities in 
 ## Installation
 1. Clone this repository: `git clone https://github.com/TrixSec/LFI-Scanner.git`
 2. Navigate to the project directory: `cd LFI-Scanner`
-3. Install dependencies: `pip install -r requirements.txt`
+3. Install dependencies: `pip3 install -r requirements.txt`
 
 ## Usage
-1. python3 lfi-scanner.py
+1. `python3 lfi-scanner.py`
 
 
 ## Screenshots
