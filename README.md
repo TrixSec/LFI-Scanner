@@ -27,5 +27,5 @@ This tool is designed to scan for Local File Inclusion (LFI) vulnerabilities in 
 
 ## Screenshots
 
-!LFI-Scanner]()
+!LFI-Scanner](https://github.com/TrixSec/LFI-Scanner/blob/main/ss/lfi-scanner.png?raw=true)
 
