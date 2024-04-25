@@ -22,4 +22,4 @@ This tool is designed to scan for Local File Inclusion (LFI) vulnerabilities in 
 3. Install dependencies: `pip install -r requirements.txt`
 
 ## Usage
->>> python3 lfi-scanner.py
+1. python3 lfi-scanner.py
