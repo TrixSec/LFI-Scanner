@@ -1,0 +1,5 @@
+inurl:/filedown.php?file=
+inurl:/squirrelcart/cart_content.php?cart_isp_root=
+inurl:index2.php?to=
+inurl:index.php?load=
+inurl:home.php?pagina=
