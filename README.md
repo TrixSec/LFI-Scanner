@@ -26,3 +26,6 @@ This tool is designed to scan for Local File Inclusion (LFI) vulnerabilities in 
 
 
 ## Screenshots
+
+!LFI-Scanner]()
+
