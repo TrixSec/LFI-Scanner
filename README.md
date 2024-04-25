@@ -23,3 +23,6 @@ This tool is designed to scan for Local File Inclusion (LFI) vulnerabilities in 
 
 ## Usage
 1. python3 lfi-scanner.py
+
+
+## Screenshots
